@@ -7,4 +7,9 @@ ion-card {
     width: 100%;
     object-fit: cover; /* Maintain aspect ratio */
   }
-  
+  ion-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 20px;
+    font-size: larger;
+  }
