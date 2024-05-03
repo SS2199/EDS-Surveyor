@@ -13,6 +13,21 @@
       "src": "assets/images/c3.jfif",
       "title": "Photo 3",
       "description": "Description for photo 3"
+    },
+    {
+      "src": "assets/images/c4.jfif",
+      "title": "Photo 1",
+      "description": "Description for photo 1"
+    },
+    {
+      "src": "assets/images/c4.jfif",
+      "title": "Photo 2",
+      "description": "Description for photo 2"
+    },
+    {
+      "src": "assets/images/c3.jfif",
+      "title": "Photo 3",
+      "description": "Description for photo 3"
     }
    
   ]
