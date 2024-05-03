@@ -1,27 +1,22 @@
-#container {
-  text-align: center;
-
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+.navbar{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 10px;
+  font-weight: bolder;
+}
+.nav{
+  margin-left: 60%;
+  padding: 10px;
+  font-weight: bold;
+  font-size: medium;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #333; /* Navbar link text color */
+  font-size: 18px; /* Navbar link font size */
+  transition: color 0.3s ease; /* Smooth transition for color change */
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
-
-#container p {
-  font-size: 16px;
-  line-height: 22px;
-
-  color: #8c8c8c;
-
-  margin: 0;
-}
-
-#container a {
-  text-decoration: none;
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: rgb(56, 164, 247); /* Navbar link hover/focus color (blue) */
+  cursor: pointer; /* Change cursor to hand pointer */
 }
