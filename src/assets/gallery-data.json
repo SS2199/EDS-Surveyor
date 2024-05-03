@@ -1,0 +1,19 @@
+[
+    {
+      "src": "path/to/image1.jpg",
+      "title": "Photo 1",
+      "description": "Description for photo 1"
+    },
+    {
+      "src": "path/to/image2.jpg",
+      "title": "Photo 2",
+      "description": "Description for photo 2"
+    },
+    {
+      "src": "path/to/image3.jpg",
+      "title": "Photo 3",
+      "description": "Description for photo 3"
+    }
+   
+  ]
+  
