@@ -1,0 +1,7 @@
+{
+  "name": "EDS-Surveyor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
